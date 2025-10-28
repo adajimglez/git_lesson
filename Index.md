@@ -1,4 +1,4 @@
-# Weldome to my website
+# Welcome to my website
 
 This is a simple webpage for github tutorial.
 
